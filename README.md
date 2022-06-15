@@ -24,11 +24,11 @@ IMPORTANTE:
 
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-- **RESPOSTA: Programa em C# <link>**
+- **RESPOSTA: Programa em C# [Fibonacci](Fibonacci/Fibonacci/Program.cs)**
 
 ### **3) Descubra a lógica e complete o próximo elemento:**
 
-- **RESPOSTA em negrito e sublinhado**
+- **RESPOSTA em negrito**
 
 a) 1, 3, 5, 7, **9 → Ímpares**
 
@@ -64,4 +64,4 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-- **RESPOSTA: Programa em C# <link>**
+- **RESPOSTA: Programa em C# [InverteString](InverteString/InverteString/Program.cs)**
