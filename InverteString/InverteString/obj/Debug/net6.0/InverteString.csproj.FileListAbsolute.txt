@@ -1,0 +1,15 @@
+C:\Users\marko\source\repos\InverteString\InverteString\bin\Debug\net6.0\InverteString.exe
+C:\Users\marko\source\repos\InverteString\InverteString\bin\Debug\net6.0\InverteString.deps.json
+C:\Users\marko\source\repos\InverteString\InverteString\bin\Debug\net6.0\InverteString.runtimeconfig.json
+C:\Users\marko\source\repos\InverteString\InverteString\bin\Debug\net6.0\InverteString.dll
+C:\Users\marko\source\repos\InverteString\InverteString\bin\Debug\net6.0\InverteString.pdb
+C:\Users\marko\source\repos\InverteString\InverteString\obj\Debug\net6.0\InverteString.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\InverteString\InverteString\obj\Debug\net6.0\InverteString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\InverteString\InverteString\obj\Debug\net6.0\InverteString.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\InverteString\InverteString\obj\Debug\net6.0\InverteString.AssemblyInfo.cs
+C:\Users\marko\source\repos\InverteString\InverteString\obj\Debug\net6.0\InverteString.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\InverteString\InverteString\obj\Debug\net6.0\InverteString.dll
+C:\Users\marko\source\repos\InverteString\InverteString\obj\Debug\net6.0\refint\InverteString.dll
+C:\Users\marko\source\repos\InverteString\InverteString\obj\Debug\net6.0\InverteString.pdb
+C:\Users\marko\source\repos\InverteString\InverteString\obj\Debug\net6.0\InverteString.genruntimeconfig.cache
+C:\Users\marko\source\repos\InverteString\InverteString\obj\Debug\net6.0\ref\InverteString.dll
